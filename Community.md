@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Prithvi More</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/LuciferMorningstar33/</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/prithvi-more-a5a61b2b7/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>JSPM's Rajarshi Shahu College Of Engineering</td>
+  </tr>
+</table>
