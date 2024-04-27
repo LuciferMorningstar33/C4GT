@@ -924,6 +924,6 @@
   </tr>
   <tr>
     <td>College</td>
-    <td>JSPM's Rajarshi Shahu College Of Engineering</td>
+    <td>JSPM's Rajarshi Shahu College Of Engineering.</td>
   </tr>
 </table>
